@@ -11,3 +11,7 @@
 ##### Assignment 2 - HTML Table - [GitHub Repolink](https://github.com/pijushkonar/Refreshers/tree/main/Assignments/htmltable/index.html) - [Netlify Deploy Link](https://pijush-assignments.netlify.app/assignments/htmltable/)
 
 ---
+
+#### CSS
+
+##### Assignment 3 - CSS Apple Page - [GitHub Repolink](https://github.com/pijushkonar/Refreshers/tree/main/Assignments/applepage) - [Netlify Deploy Link](https://pijush-assignments.netlify.app/assignments/applepage/)
